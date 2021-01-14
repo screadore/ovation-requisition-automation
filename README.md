@@ -1,5 +1,5 @@
 # ovation-requisition-automation
-# Disclaimer I do not claim any ownership or rights to Ovation. I am just facilitating the automation of their platform for open source usage.
+# This script uses the Pandas Python package to automate the input of sample information from one excel file into the requisition template for bulk uploading.
 This script uses the Pandas Python package to automate the input of sample information from one excel file into the requisition template for bulk uploading.
 
 How to use:
@@ -30,3 +30,5 @@ How to use:
 10) run the ovation.py script and you should be good to go.
 
 # Please note this is still a version 1 beta of the script. Will be updating over time to make it more efficient.
+
+# Disclaimer - I do not claim any ownership or credit for the Ovation platform. I am only facilitating the automation of the workflow to import samples for the bulk requisition functionality of the platform to aid in Whole Genome Sequencing and Whole Exome Sequencing workflows. Anyone can freely use this product, but please give credit if used in a publication or if you reuse the code to modify it/improve it. Thank you.
